@@ -26,6 +26,7 @@
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
 		<Item Name="5-digits_display_driver.vi" Type="VI" URL="../5-digits_display_driver.vi"/>
+		<Item Name="use_case.vi" Type="VI" URL="../use_case.vi"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
